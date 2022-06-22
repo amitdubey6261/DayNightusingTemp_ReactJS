@@ -1,0 +1,8 @@
+.imgbox{
+    border-radius: 1cm;
+    border: 5px solid black;
+    background-color: azure;
+    width: 30vw;
+    height: 60vh;
+    margin: 3vh;
+}
